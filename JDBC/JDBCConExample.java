@@ -2,7 +2,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-public class JDBCConnExample.java{
+public class JDBCConExample{
         //database URI connection
         public static String DB_URI="jdbc:mysql://localhost:3306/netID?useSSL=false";
         // database name
